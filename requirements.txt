@@ -44,7 +44,7 @@ telethon==1.36.0
 tgcrypto==1.2.5
 wikipedia==1.4.0
 Flask==1.1.2
-gunicorn==20.1.0
+gunicorn==22.0.0
 Jinja2==3.0.3
 werkzeug==2.0.2
 itsdangerous==2.0.1
